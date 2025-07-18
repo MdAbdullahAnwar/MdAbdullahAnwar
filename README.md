@@ -28,8 +28,7 @@
 - 💬 Ask me about: `JavaScript`, `React`, `Next.js`, `Tailwind CSS`, `Firebase`,
 - 🤝 Open to collaborations on: **AI-driven** web apps, **FinTech** tools or **SaaS** dashboards
 - 📫 How to reach me: **[abdullahanwar2109@gmail.com](mailto:abdullahanwar2109@gmail.com)**
-- 📄 Know more about me: [Portfolio Coming Soon 🚧]
-
+- 📄 Know more about me: [Visit My Portfolio](https://portfolio-sooty-beta-0xy1b1jwtx.vercel.app/)
 ---
 
 ### 📈 GitHub Stats
